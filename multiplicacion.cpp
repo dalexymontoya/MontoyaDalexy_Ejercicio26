@@ -44,7 +44,7 @@ int main(){
     
     
    
-    /*Imprimimos todo en la consola para posteriormente guardarlo en un .dat*/
+    /*Imprimimir */
     cout<<""<<endl; 
     cout<<"la multiplicacion de los dos arreglos es"<<endl;  
     cout<<""<<endl; 
